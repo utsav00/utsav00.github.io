@@ -35,15 +35,13 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   name      : Utsav Parmar
-  url       :
-  avatar    : # path or url of avatar image (square)
+  url       : "https://utsav00.github.io"
+  avatar    : ""
   bio       : Software Engineer | Rails | NextJS | React
-  email     :
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  email     : abc@gmail.com
+  twitter   : "chaol_w"
+  linkedin  : "utsavparmar"
+  github    : "utsav00"
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
