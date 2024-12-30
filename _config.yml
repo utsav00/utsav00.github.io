@@ -35,10 +35,10 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   name      : Utsav Parmar
-  url       : "https://utsav00.github.io"
-  avatar    : ""
+  url       : ""
+  avatar    : "/assets/utsav.png"
   bio       : Software Engineer | Rails | NextJS | React
-  email     : abc@gmail.com
+  email     : utsavp0213@gmail.com
   twitter   : "chaol_w"
   linkedin  : "utsavparmar"
   github    : "utsav00"
