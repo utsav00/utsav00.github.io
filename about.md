@@ -26,3 +26,5 @@ titles:
 key: page-about
 ---
 
+Hi, I'm Utsav Parmar, a Software Engineer with a passion for all things tech and science. I've been meaning to start a blog for a while and here it is! This site is a place for me to share my learnings and experiences for whatever catches my interest. I hope you find something useful or even just fun along the way!
+ 
